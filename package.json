@@ -2,7 +2,7 @@
   "name": "CeciEstMonCommit",
   "version": "0.0.1",
   "author": "Angelo",
-  "homepage": "http://ionicframework.com/",
+  "homepage": "accueil",
   "private": true,
   "scripts": {
     "clean": "ionic-app-scripts clean",
